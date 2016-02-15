@@ -8,8 +8,6 @@ Start up a web server such as xampp
 Type into browser: localhost/runtracker/home.html
 
 ##To do
-Get map to start zoomed in closer to your beginning location
-
 Google maps api limits waypoints to 8, currently trying to work around this in an efficient way.
 
 
