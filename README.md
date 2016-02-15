@@ -12,4 +12,6 @@ Get map to start zoomed in closer to your beginning location
 
 Google maps api limits waypoints to 8, currently trying to work around this in an efficient way.
 
+
+
 Created by Reggie Barnett and Andrew Croul
